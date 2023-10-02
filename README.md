@@ -5,7 +5,7 @@
 
 1 - Packages
 
-First, let's run the cell below to import all the packages that you will need.
+First, import all the packages that you will need.
 
     numpy is the fundamental package for scientific computing with Python.
     matplotlib is a famous library to plot graphs in Python.
