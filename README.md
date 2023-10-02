@@ -26,11 +26,11 @@ First, import all the packages that you will need.
     
   - You can translate $1/e^{-z}$ into code as `1/np.exp(-z)` 
     
-    If you're still stuck, you can check the hints presented below to figure out how to calculate `the morse potential` 
+    If you're still stuck, you can check the hints presented below to figure out how to calculate `the Morse potential` 
     
     <details>
-          <summary><font size="2" color="darkblue"><b>Hint to calculate g</b></font></summary>
-        <code>g = 1 / (1 + np.exp(-z))</code>
+          <summary><font size="2" color="darkblue"><b>Hint to calculate Morse potential</b></font></summary>
+        <code> V(z)=D_{e}\left[1-np.exp({-\alpha(z-z_{e}))} \right]^{2}</code>
     </details>
 
 
