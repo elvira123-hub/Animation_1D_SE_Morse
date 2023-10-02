@@ -30,7 +30,7 @@ First, import all the packages that you will need.
     
     <details>
           <summary><font size="2" color="darkblue"><b>Hint to calculate Morse potential</b></font></summary>
-        <code> V(z)=De[1-np.exp({-\alpha(z-z_{e})}]^{2}</code>
+        <code> V(z)=De[1-np.exp({-alpha(z-ze)}]^{2}</code>
     </details>
 
 
