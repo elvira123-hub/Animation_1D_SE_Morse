@@ -1,7 +1,8 @@
 # 1D_TISE_Morse
 :relaxed: Play with eigenvalues and eigenvectors in few second :tada:. Morse potential is one of the realistic model which help to describe better diatomic interaction. This code helps determine the highest vibrational quantum number and, at each step, computes the probability density function and the corresponding energy
 
-https://github.com/user-attachments/assets/9a443a13-8da1-4a43-b54b-65353c9ba821
+<img width="400" height="375" alt="SE1 (online-video-cutter com)" src="https://github.com/user-attachments/assets/11f987c7-42d5-4498-bba4-5e8f2f073619" />
+
 
 ## 1 - Packages 
 
